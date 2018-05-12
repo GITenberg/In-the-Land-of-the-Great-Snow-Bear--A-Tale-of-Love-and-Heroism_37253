@@ -22,6 +22,8 @@ creator:
     gutenberg_agent_id: '4164'
     url: http://www.gutenberg.org/2009/agents/4164
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37253#In-the-Land-of-the-Great-Snow-Bear--A-Tale-of-Love-and-Heroism
 gutenberg_issued: '2011-08-29'
 gutenberg_type: Text
 identifiers:
